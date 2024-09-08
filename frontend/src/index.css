@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-image {
+     background-image: url('https://img.clipart-library.com/2/clip-transparent-bubble-gif/clip-transparent-bubble-gif-6.gif');
+     background-size: cover; /* Resmin kapsayıcı şekilde büyütülmesini sağlar */
+     background-position: center; /* Resmi sağa hizalar */
+     background-repeat: no-repeat; /* Resmi tekrar etmesini engeller */
+     
+   }
